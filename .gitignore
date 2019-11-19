@@ -1,0 +1,10 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+constants/secrets.js
+assets/possibleImages
+*.txt
