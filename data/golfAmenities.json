@@ -1,0 +1,32 @@
+[
+  {
+    "tagID": 43926,
+    "tagTypeID": 1,
+    "tag": "Golf Carts",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  },
+  {
+    "tagID": 43908,
+    "tagTypeID": 1,
+    "tag": "Coffee Shops",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  },
+  {
+    "tagID": 43916,
+    "tagTypeID": 1,
+    "tag": "Driving Ranges",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  },
+  {
+   "tagID": 43952,
+   "tagTypeID": 1,
+   "tag": "Pro Shops",
+   "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+ },
+ {
+    "tagID": 43953,
+    "tagTypeID": 1,
+    "tag": "Putting Greens",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+     "tagID": 43891,
+     "tagTypeID": 1,
+     "tag": "Amphitheaters",
+     "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+   },
+   {
+    "tagID": 43893,
+    "tagTypeID": 1,
+    "tag": "Auditoriums",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  },
+  {
+    "tagID": 43936,
+    "tagTypeID": 1,
+    "tag": "Indoor Theaters",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  },
+  {
+    "tagID": 43947,
+    "tagTypeID": 1,
+    "tag": "Outdoor Stages",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  },
+  {
+    "tagID": 43909,
+    "tagTypeID": 1,
+    "tag": "Community Centers",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  },
+  {
+    "tagID": 43910,
+    "tagTypeID": 1,
+    "tag": "Community Gardens",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  },
+  {
+    "tagID": 43966,
+    "tagTypeID": 1,
+    "tag": "Teen Centers",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  },
+  {
+   "tagID": 43943,
+   "tagTypeID": 1,
+   "tag": "Multipurpose Rooms",
+   "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+ },
+ {
+    "tagID": 43958,
+    "tagTypeID": 1,
+    "tag": "Senior Centers",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  },
+  {
+    "tagID": 43895,
+    "tagTypeID": 1,
+    "tag": "Barbecue",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  },
+  {
+    "tagID": 43929,
+    "tagTypeID": 1,
+    "tag": "Group Picnic Shelters",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  },
+  {
+    "tagID": 43946,
+    "tagTypeID": 1,
+    "tag": "Outdoor Kitchens",
+    "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+  },
+  {
+   "tagID": 43949,
+   "tagTypeID": 1,
+   "tag": "Picnic Shelters",
+   "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+ },
+ {
+   "tagID": 43950,
+   "tagTypeID": 1,
+   "tag": "Picnic Tables",
+   "imageURL": "https://locator.lacounty.gov/Images/lacounty_logo.png"
+ },
+]
